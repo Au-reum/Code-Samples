@@ -1,5 +1,7 @@
 public class Carpet{
 
+//Angela Christine
+
   public static void main(String[] args) {
      double carpetWidth = 10, carpetLength = 20, givenCent = 435.6, givenDollar = 5 ,area = 0, cents = 0, dollars = 0;
 
@@ -10,3 +12,4 @@ public class Carpet{
      System.out.println("Therefore the carpet costs: $" + dollars + " and " + cents + " cents.");
   }
 }
+
